@@ -1,0 +1,1126 @@
+.logo{
+    position: absolute;
+    scale: 35%;
+    bottom: -160px;
+    right: 570px;
+}
+
+.cajanombre{
+    position: absolute;
+    background-color: rgb(2, 0, 112);
+    width: 1343px;
+    height: 235px;
+    left: 10px;
+    bottom: 360px;
+    border-radius: 30px;
+}
+.nombreproyecto{
+    color: white;
+    position: absolute;
+    left: 600px;
+    bottom: 90px;
+    text-align: center;
+    scale: 320%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.numeronombre{
+    color: white;
+    position: absolute;
+    left: 1030px;
+    bottom: 90px;
+    text-align: center;
+    scale: 300%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fotoiniciosesion{
+    width: 41rem;
+    height: 40rem;
+    border-radius: 50%;
+    background: rgb(124, 119, 119);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0px auto;
+    padding: 3%;
+    position: absolute;
+    scale: 30%;
+    top: -240px;
+    right: -2750px;
+    border-left:  30px solid white;
+    border-right: 30px solid white;
+    border-bottom:  30px solid white;
+    border-top:  30px solid white;
+}
+.cuerpoiniciosesion1{
+    width: 60rem;
+    height: 40rem;
+    border-radius: 50%;
+    background: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0px auto;
+    padding: 3%;
+    position: absolute;
+    scale: 50%;
+    top: 180px;
+    right: -170px;
+    border-left:  30px solid white;
+    border-right: 30px solid white;
+    border-bottom:  30px solid white;
+    border-top:  30px solid white;
+}
+.cuerpoiniciosesion2{
+    width: 41rem;
+    height: 40rem;
+    border-radius: 50%;
+    background: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0px auto;
+    padding: 3%;
+    position: absolute;
+    scale: 50%;
+    top: -175px;
+    right: -10px;
+    border-left:  30px solid white;
+    border-right: 30px solid white;
+    border-bottom:  30px solid white;
+    border-top:  30px solid white;
+}
+.iniciosesion{
+    color: white;
+    background-color: rgb(21, 21, 177);
+    border-radius: 90px;
+    font-size: 100px;
+    position: absolute;
+    scale: 60%;
+    left: 3070px;
+    bottom: 120px;
+    padding: 90px 400px;
+    display: inline-block;
+}
+a:hover{
+    background-color: rgb(56, 56, 214);
+}
+.tituloiniciasesion{
+    position: absolute;
+    left: 150px;
+    bottom: 40px;
+    scale: 80%;
+}
+
+nav{
+    background-color:  rgb(2, 0, 112);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    height: 60px;
+    width: 1100px;
+    scale: 180%;
+    left: 1100px;
+    top: -10px;
+    border-radius: 50px;
+} 
+nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    right: 170px;
+}  
+nav ul li{
+    display: inline-block;
+}
+nav ul li a{
+    display: inline-block;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 40px;
+    margin-left: 50px;
+}
+
+.imagen{
+    position: absolute;
+    left: 18px;
+    bottom: 12px;
+    transform: rotate(-360deg);
+}
+.container{
+    position: absolute;
+    left: 285%;
+    top: 99%;
+    scale: 200%;
+    transform: translate(-50%,-50%);
+    padding: 10px;
+}
+input{
+    outline: none;
+    box-sizing: border-box;
+    height: 60px;
+    width: 0;
+    padding: 0 20px;
+    color: #000;
+    border-radius: 50px;
+    font-size: 20px;
+    border: 1px solid red;
+    transition: all .7s ease;
+}
+::placeholder{
+    color: grey;
+}
+.btn{
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 80px;
+    height: 80px;
+    background-color:  rgb(2, 0, 112);
+    line-height: 80px;
+    border-radius: 50%;
+    text-align: center;
+    cursor: pointer;
+    transition: .5s;
+}
+.btn i{
+    font-size: 25 px;
+    color: white;
+    line-height: 80px;
+    transition: all .7 ease;
+}
+.container:hover input{
+    width: 350px;
+}    
+.container:hover i{
+    transform: rotate(-360deg);
+}
+.btn:hover{
+    background-color:  rgb(2, 0, 112);
+}
+
+.imagencarrocompras{
+    position: absolute;
+    bottom: -30px;
+    left: 2410px;
+    scale: 55%;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.gamaalta{
+    position: absolute;
+    scale: 170%;
+    top: 280px;
+    left: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.cajaxiaomi12t{
+    position: absolute;
+    background-color: transparent;
+    width: 270px;
+    height: 380px;
+    border-left:  2px solid rgb(116, 116, 116);
+    border-right: 2px solid rgb(116, 116, 116);
+    border-bottom:  2px solid rgb(116, 116, 116);
+    border-top:  2px solid rgb(116, 116, 116);
+    border-radius: 7%;
+    top: 370px;
+    left: 20px;
+    opacity: 900%;
+}
+.imagenxiaomi12t{
+    position: absolute;
+    scale: 50%;
+    right: -115px;
+    bottom: -15px;
+}
+.lineaxiaomi12t{
+    position: absolute;
+    background-color: rgb(116, 116, 116);
+    color: rgb(116, 116, 116);
+    right: 134px;
+    bottom: -50px;
+    height: 273px;
+    width: 1.5px;
+    transform: rotate(-90deg);
+    border-left:  0px solid rgb(116, 116, 116);
+    border-right: 0px solid rgb(116, 116, 116);
+    border-bottom:  0px solid rgb(116, 116, 116);
+    border-top:  0px solid rgb(116, 116, 116);
+    opacity: 900%;
+}
+.nombrexiaomi12t{
+    position: absolute;
+    color: black;
+    scale: 200%;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 100px;
+    top: 300px;
+}
+.precioxiaomi12t{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 5px;
+    top: 10px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.cajaiphone14{
+    position: absolute;
+    background-color: transparent;
+    width: 270px;
+    height: 380px;
+    border-left:  2px solid rgb(116, 116, 116);
+    border-right: 2px solid rgb(116, 116, 116);
+    border-bottom:  2px solid rgb(116, 116, 116);
+    border-top:  2px solid rgb(116, 116, 116);
+    border-radius: 7%;
+    top: 370px;
+    left: 350px;
+}
+.imageniphone14{
+    position: absolute;
+    scale: 60%;
+    right: -117px;
+    bottom: -10px;
+}
+.lineaiphone14{
+    position: absolute;
+    background-color: rgb(116, 116, 116);
+    color: rgb(116, 116, 116);
+    right: 134px;
+    bottom: -50px;
+    height: 273px;
+    width: 1.5px;
+    transform: rotate(-90deg);
+    border-left:  0px solid rgb(116, 116, 116);
+    border-right: 0px solid rgb(116, 116, 116);
+    border-bottom:  0px solid rgb(116, 116, 116);
+    border-top:  0px solid rgb(116, 116, 116);
+}
+.nombreiphone14{
+    position: absolute;
+    color: black;
+    scale: 200%;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 90px;
+    top: 300px;
+}
+.precioiphone14{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 25px;
+    top: 10px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.cajas23ultra{
+    position: absolute;
+    background-color: transparent;
+    width: 270px;
+    height: 380px;
+    border-left:  2px solid rgb(116, 116, 116);
+    border-right: 2px solid rgb(116, 116, 116);
+    border-bottom:  2px solid rgb(116, 116, 116);
+    border-top:  2px solid rgb(116, 116, 116);
+    border-radius: 7%;
+    top: 370px;
+    left: 680px;
+}
+.imagens23ultra{
+    position: absolute;
+    scale: 55%;
+    right: -155px;
+    bottom: 20px;
+}
+.lineas23ultra{
+    position: absolute;
+    background-color: rgb(116, 116, 116);
+    color: rgb(116, 116, 116);
+    right: 134px;
+    bottom: -50px;
+    height: 273px;
+    width: 1.5px;
+    transform: rotate(-90deg);
+    border-left:  0px solid rgb(116, 116, 116);
+    border-right: 0px solid rgb(116, 116, 116);
+    border-bottom:  0px solid rgb(116, 116, 116);
+    border-top:  0px solid rgb(116, 116, 116);
+}
+.nombres23ultra{
+    position: absolute;
+    color: black;
+    scale: 200%;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 75px;
+    top: 300px;
+}
+.precios23ultra{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 35px;
+    top: 10px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.cajacelularsamsungzflip4{
+    position: absolute;
+    background-color: transparent;
+    width: 270px;
+    height: 380px;
+    border-left:  2px solid rgb(116, 116, 116);
+    border-right: 2px solid rgb(116, 116, 116);
+    border-bottom:  2px solid rgb(116, 116, 116);
+    border-top:  2px solid rgb(116, 116, 116);
+    border-radius: 7%;
+    top: 370px;
+    left: 1010px;
+    opacity: 900%;
+}
+.imagensamsungzflip4{
+    position: absolute;
+    scale: 80%;
+    right: -145px;
+    bottom: 15px;
+}
+.lineasamsungzflip4{
+    position: absolute;
+    background-color: rgb(116, 116, 116);
+    color: rgb(116, 116, 116);
+    right: 134px;
+    bottom: -50px;
+    height: 273px;
+    width: 1.5px;
+    transform: rotate(-90deg);
+    border-left:  0px solid rgb(116, 116, 116);
+    border-right: 0px solid rgb(116, 116, 116);
+    border-bottom:  0px solid rgb(116, 116, 116);
+    border-top:  0px solid rgb(116, 116, 116);
+    opacity: 900%;
+}
+.nombresamsungzflip4{
+    position: absolute;
+    color: black;
+    scale: 200%;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 75px;
+    top: 300px;
+}
+.preciosamsungzflip4{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 35px;
+    top: 10px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.gamamedia{
+    position: absolute;
+    scale: 170%;
+    top: 810px;
+    left: 94px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.cajanote11s{
+    position: absolute;
+    background-color: transparent;
+    width: 270px;
+    height: 380px;
+    border-left:  2px solid rgb(116, 116, 116);
+    border-right: 2px solid rgb(116, 116, 116);
+    border-bottom:  2px solid rgb(116, 116, 116);
+    border-top:  2px solid rgb(116, 116, 116);
+    border-radius: 7%;
+    top: 900px;
+    left: 20px;
+    opacity: 900%;
+}
+.imagennote11s{
+    position: absolute;
+    scale: 60%;
+    right: -115px;
+    bottom: -15px;
+}
+.lineanote11s{
+    position: absolute;
+    background-color: rgb(116, 116, 116);
+    color: rgb(116, 116, 116);
+    right: 134px;
+    bottom: -50px;
+    height: 273px;
+    width: 1.5px;
+    transform: rotate(-90deg);
+    border-left:  0px solid rgb(116, 116, 116);
+    border-right: 0px solid rgb(116, 116, 116);
+    border-bottom:  0px solid rgb(116, 116, 116);
+    border-top:  0px solid rgb(116, 116, 116);
+    opacity: 900%;
+}
+.nombrenote11s{
+    position: absolute;
+    color: black;
+    scale: 200%;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 95px;
+    top: 300px;
+}
+.precionote11s{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 15px;
+    top: 10px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.cajafindx5{
+    position: absolute;
+    background-color: transparent;
+    width: 270px;
+    height: 380px;
+    border-left:  2px solid rgb(116, 116, 116);
+    border-right: 2px solid rgb(116, 116, 116);
+    border-bottom:  2px solid rgb(116, 116, 116);
+    border-top:  2px solid rgb(116, 116, 116);
+    border-radius: 7%;
+    top: 900px;
+    left: 350px;
+}
+.imagenfindx5{
+    position: absolute;
+    scale: 43%;
+    right: -88px;
+    bottom: -42px;
+}
+.lineafindx5{
+    position: absolute;
+    background-color: rgb(116, 116, 116);
+    color: rgb(116, 116, 116);
+    right: 134px;
+    bottom: -50px;
+    height: 273px;
+    width: 1.5px;
+    transform: rotate(-90deg);
+    border-left:  0px solid rgb(116, 116, 116);
+    border-right: 0px solid rgb(116, 116, 116);
+    border-bottom:  0px solid rgb(116, 116, 116);
+    border-top:  0px solid rgb(116, 116, 116);
+}
+.nombrefindx5{
+    position: absolute;
+    color: black;
+    scale: 200%;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 93px;
+    top: 300px;
+}
+.preciofindx5{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 25px;
+    top: 10px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.cajaxiaomix4{
+    position: absolute;
+    background-color: transparent;
+    width: 270px;
+    height: 380px;
+    border-left:  2px solid rgb(116, 116, 116);
+    border-right: 2px solid rgb(116, 116, 116);
+    border-bottom:  2px solid rgb(116, 116, 116);
+    border-top:  2px solid rgb(116, 116, 116);
+    border-radius: 7%;
+    top: 900px;
+    left: 680px;
+}
+.imagenxiaomix4{
+    position: absolute;
+    scale: 50%;
+    right: -120px;
+    bottom: -10px;
+}
+.lineaxiaomix4{
+    position: absolute;
+    background-color: rgb(116, 116, 116);
+    color: rgb(116, 116, 116);
+    right: 134px;
+    bottom: -50px;
+    height: 273px;
+    width: 1.5px;
+    transform: rotate(-90deg);
+    border-left:  0px solid rgb(116, 116, 116);
+    border-right: 0px solid rgb(116, 116, 116);
+    border-bottom:  0px solid rgb(116, 116, 116);
+    border-top:  0px solid rgb(116, 116, 116);
+}
+.nombrexiaomix4{
+    position: absolute;
+    color: black;
+    scale: 200%;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 90px;
+    top: 300px;
+}
+.precioxiaomix4{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 25px;
+    top: 10px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.cajamotorolag52{
+    position: absolute;
+    background-color: transparent;
+    width: 270px;
+    height: 380px;
+    border-left:  2px solid rgb(116, 116, 116);
+    border-right: 2px solid rgb(116, 116, 116);
+    border-bottom:  2px solid rgb(116, 116, 116);
+    border-top:  2px solid rgb(116, 116, 116);
+    border-radius: 7%;
+    top: 900px;
+    left: 1010px;
+    opacity: 900%;
+}
+.imagenmotorolag52{
+    position: absolute;
+    scale: 68%;
+    right: -123px;
+    bottom: -10px;
+}
+.lineamotorolag52{
+    position: absolute;
+    background-color: rgb(116, 116, 116);
+    color: rgb(116, 116, 116);
+    right: 134px;
+    bottom: -50px;
+    height: 273px;
+    width: 1.5px;
+    transform: rotate(-90deg);
+    border-left:  0px solid rgb(116, 116, 116);
+    border-right: 0px solid rgb(116, 116, 116);
+    border-bottom:  0px solid rgb(116, 116, 116);
+    border-top:  0px solid rgb(116, 116, 116);
+    opacity: 900%;
+}
+.nombremotorolag52{
+    position: absolute;
+    color: black;
+    scale: 200%;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 107px;
+    top: 300px;
+}
+.preciomotorolag52{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 15px;
+    top: 10px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.gamabaja{
+    position: absolute;
+    scale: 170%;
+    top: 1350px;
+    left: 84px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.cajanokiac01{
+    position: absolute;
+    background-color: transparent;
+    width: 270px;
+    height: 380px;
+    border-left:  2px solid rgb(116, 116, 116);
+    border-right: 2px solid rgb(116, 116, 116);
+    border-bottom:  2px solid rgb(116, 116, 116);
+    border-top:  2px solid rgb(116, 116, 116);
+    border-radius: 7%;
+    top: 1440px;
+    left: 20px;
+    opacity: 900%;
+}
+.imagennokiac01{
+    position: absolute;
+    scale: 70%;
+    right: -40px;
+    bottom: 67px;
+}
+.lineanokiac01{
+    position: absolute;
+    background-color: rgb(116, 116, 116);
+    color: rgb(116, 116, 116);
+    right: 134px;
+    bottom: -50px;
+    height: 273px;
+    width: 1.5px;
+    transform: rotate(-90deg);
+    border-left:  0px solid rgb(116, 116, 116);
+    border-right: 0px solid rgb(116, 116, 116);
+    border-bottom:  0px solid rgb(116, 116, 116);
+    border-top:  0px solid rgb(116, 116, 116);
+    opacity: 900%;
+}
+.nombrenokiac01{
+    position: absolute;
+    color: black;
+    scale: 200%;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 100px;
+    top: 300px;
+}
+.precionokiac01{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 15px;
+    top: 10px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.cajaxiaomia1{
+    position: absolute;
+    background-color: transparent;
+    width: 270px;
+    height: 380px;
+    border-left:  2px solid rgb(116, 116, 116);
+    border-right: 2px solid rgb(116, 116, 116);
+    border-bottom:  2px solid rgb(116, 116, 116);
+    border-top:  2px solid rgb(116, 116, 116);
+    border-radius: 7%;
+    top: 1440px;
+    left: 350px;
+}
+.imagenxiaomia1{
+    position: absolute;
+    scale: 57%;
+    right: -117px;
+    bottom: -15px;
+}
+.lineaxiaomia1{
+    position: absolute;
+    background-color: rgb(116, 116, 116);
+    color: rgb(116, 116, 116);
+    right: 134px;
+    bottom: -50px;
+    height: 273px;
+    width: 1.5px;
+    transform: rotate(-90deg);
+    border-left:  0px solid rgb(116, 116, 116);
+    border-right: 0px solid rgb(116, 116, 116);
+    border-bottom:  0px solid rgb(116, 116, 116);
+    border-top:  0px solid rgb(116, 116, 116);
+}
+.nombrexiaomia1{
+    position: absolute;
+    color: black;
+    scale: 200%;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 115px;
+    top: 300px;
+}
+.precioxiaomia1{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 5px;
+    top: 10px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.cajasamsunga03{
+    position: absolute;
+    background-color: transparent;
+    width: 270px;
+    height: 380px;
+    border-left:  2px solid rgb(116, 116, 116);
+    border-right: 2px solid rgb(116, 116, 116);
+    border-bottom:  2px solid rgb(116, 116, 116);
+    border-top:  2px solid rgb(116, 116, 116);
+    border-radius: 7%;
+    top: 1440px;
+    left: 680px;
+}
+.imagensamsunga03{
+    position: absolute;
+    scale: 45%;
+    right: -120px;
+    bottom: -10px;
+}
+.lineasamsunga03{
+    position: absolute;
+    background-color: rgb(116, 116, 116);
+    color: rgb(116, 116, 116);
+    right: 134px;
+    bottom: -50px;
+    height: 273px;
+    width: 1.5px;
+    transform: rotate(-90deg);
+    border-left:  0px solid rgb(116, 116, 116);
+    border-right: 0px solid rgb(116, 116, 116);
+    border-bottom:  0px solid rgb(116, 116, 116);
+    border-top:  0px solid rgb(116, 116, 116);
+}
+.nombresamsunga03{
+    position: absolute;
+    color: black;
+    scale: 200%;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 102px;
+    top: 300px;
+}
+.preciosamsunga03{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 15px;
+    top: 10px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.cajalogicx40{
+    position: absolute;
+    background-color: transparent;
+    width: 270px;
+    height: 380px;
+    border-left:  2px solid rgb(116, 116, 116);
+    border-right: 2px solid rgb(116, 116, 116);
+    border-bottom:  2px solid rgb(116, 116, 116);
+    border-top:  2px solid rgb(116, 116, 116);
+    border-radius: 7%;
+    top: 1440px;
+    left: 1010px;
+    opacity: 900%;
+}
+.imagenlogicx40{
+    position: absolute;
+    scale: 45%;
+    right: -95px;
+    bottom: -55px;
+}
+.linealogicx40{
+    position: absolute;
+    background-color: rgb(116, 116, 116);
+    color: rgb(116, 116, 116);
+    right: 134px;
+    bottom: -50px;
+    height: 273px;
+    width: 1.5px;
+    transform: rotate(-90deg);
+    border-left:  0px solid rgb(116, 116, 116);
+    border-right: 0px solid rgb(116, 116, 116);
+    border-bottom:  0px solid rgb(116, 116, 116);
+    border-top:  0px solid rgb(116, 116, 116);
+    opacity: 900%;
+}
+.nombrelogicx40{
+    position: absolute;
+    color: black;
+    scale: 200%;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 115px;
+    top: 300px;
+}
+.preciologicx40{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 7px;
+    top: 10px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.footer{
+    position: absolute;
+    background-color: gray;
+    height: 240px;
+    width: 1370px;
+    top: 1900px;
+    right: -11px;
+}
+
+.contactanos{
+    position: absolute;
+    color: black;
+    scale: 90%;
+    top: -5px;
+    left: 135px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.titulonumerodecontacto{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 55px;
+    left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.numerodecontacto{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 55px;
+    left: 350px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: -0.5px;
+}
+
+.titulocorreocontacto{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 90px;
+    left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.correocontacto{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 90px;
+    left: 285px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: -0.5px;
+}
+
+.tituloinstagram{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 125px;
+    left: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.instagram{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 125px;
+    left: 330px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: -0.5px;
+}
+
+.titulofacebook{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 165px;
+    left: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.facebook{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 165px;
+    left: 330px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: -0.5px;
+}
+
+.lineafooter1{
+    position: absolute;
+    background-color: rgb(80, 72, 72);
+    color: rgb(80, 72, 72);
+    right: 900px;
+    bottom: -3px;
+    height: 230px;
+    width: 1px;
+    transform: rotate(-900deg);
+    border-left:  0px solid rgb(80, 72, 72);
+    border-right: 0px solid rgb(80, 72, 72);
+    border-bottom:  0px solid rgb(80, 72, 72);
+    border-top:  0px solid rgb(80, 72, 72);
+}
+
+
+
+.encuentranosen{
+    position: absolute;
+    color: black;
+    scale: 90%;
+    top: -5px;
+    left: 570px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.titulodireccion{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 55px;
+    left: 510px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.direccion{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 90px;
+    left: 520px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+.local{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 125px;
+    left: 515px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+.lugar{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 165px;
+    left: 525px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+.lineafooter2{
+    position: absolute;
+    background-color: rgb(80, 72, 72);
+    color: rgb(80, 72, 72);
+    right: 430px;
+    bottom: -3px;
+    height: 230px;
+    width: 1px;
+    transform: rotate(-900deg);
+    border-left:  0px solid rgb(80, 72, 72);
+    border-right: 0px solid rgb(80, 72, 72);
+    border-bottom:  0px solid rgb(80, 72, 72);
+    border-top:  0px solid rgb(80, 72, 72);
+}
+
+
+.informacion{
+    position: absolute;
+    color: black;
+    scale: 90%;
+    top: -5px;
+    left: 1060px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.textinformacion{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 70px;
+    left: 1000px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/

@@ -1,0 +1,890 @@
+.logo{
+    position: absolute;
+    scale: 35%;
+    bottom: -160px;
+    right: 570px;
+}
+
+
+.cajanombre{
+    position: absolute;
+    background-color: rgb(2, 0, 112);
+    width: 1343px;
+    height: 235px;
+    left: 10px;
+    bottom: 360px;
+    border-radius: 30px;
+}
+.nombreproyecto{
+    color: white;
+    position: absolute;
+    left: 600px;
+    bottom: 90px;
+    text-align: center;
+    scale: 320%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.fotoiniciosesion{
+    width: 41rem;
+    height: 40rem;
+    border-radius: 50%;
+    background: rgb(124, 119, 119);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0px auto;
+    padding: 3%;
+    position: absolute;
+    scale: 30%;
+    top: -240px;
+    right: -2750px;
+    border-left:  30px solid white;
+    border-right: 30px solid white;
+    border-bottom:  30px solid white;
+    border-top:  30px solid white;
+}
+.cuerpoiniciosesion1{
+    width: 60rem;
+    height: 40rem;
+    border-radius: 50%;
+    background: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0px auto;
+    padding: 3%;
+    position: absolute;
+    scale: 50%;
+    top: 180px;
+    right: -170px;
+    border-left:  30px solid white;
+    border-right: 30px solid white;
+    border-bottom:  30px solid white;
+    border-top:  30px solid white;
+}
+.cuerpoiniciosesion2{
+    width: 41rem;
+    height: 40rem;
+    border-radius: 50%;
+    background: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0px auto;
+    padding: 3%;
+    position: absolute;
+    scale: 50%;
+    top: -175px;
+    right: -10px;
+    border-left:  30px solid white;
+    border-right: 30px solid white;
+    border-bottom:  30px solid white;
+    border-top:  30px solid white;
+}
+.iniciosesion{
+    color: white;
+    background-color: rgb(21, 21, 177);
+    border-radius: 90px;
+    font-size: 100px;
+    position: absolute;
+    scale: 60%;
+    left: 3070px;
+    bottom: 120px;
+    padding: 90px 400px;
+    display: inline-block;
+}
+a:hover{
+    background-color: rgb(56, 56, 214);
+}
+.tituloiniciasesion{
+    position: absolute;
+    left: 150px;
+    bottom: 40px;
+    scale: 80%;
+}
+
+
+nav{
+    background-color:  rgb(2, 0, 112);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    height: 60px;
+    width: 1100px;
+    scale: 180%;
+    left: 1100px;
+    top: -10px;
+    border-radius: 50px;
+}
+  
+nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    right: 170px;
+}
+  
+nav ul li{
+    display: inline-block;
+}
+ 
+nav ul li a{
+    display: inline-block;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 40px;
+    margin-left: 50px;
+}
+
+
+
+.imagen{
+    position: absolute;
+    left: 18px;
+    bottom: 12px;
+    transform: rotate(-360deg);
+}
+
+.container{
+    position: absolute;
+    left: 285%;
+    top: 99%;
+    scale: 200%;
+    transform: translate(-50%,-50%);
+    padding: 10px;
+}
+
+input{
+    outline: none;
+    box-sizing: border-box;
+    height: 60px;
+    width: 0;
+    padding: 0 20px;
+    color: #000;
+    border-radius: 50px;
+    font-size: 20px;
+    border: 1px solid red;
+    transition: all .7s ease;
+}
+
+::placeholder{
+    color: grey;
+}
+
+.btn{
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 80px;
+    height: 80px;
+    background-color:  rgb(2, 0, 112);
+    line-height: 80px;
+    border-radius: 50%;
+    text-align: center;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.btn i{
+    font-size: 25 px;
+    color: white;
+    line-height: 80px;
+    transition: all .7 ease;
+}
+
+.container:hover input{
+    width: 350px;
+}    
+
+.container:hover i{
+    transform: rotate(-360deg);
+}
+
+.btn:hover{
+    background-color:  rgb(2, 0, 112);
+}
+
+.imagencarrocompras{
+    position: absolute;
+    bottom: -30px;
+    left: 2410px;
+    scale: 55%;
+}
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.relojes{
+    position: absolute;
+    scale: 150%;
+    top: 250px;
+    left: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.cajagalaxywatch4{
+    position: absolute;
+    background-color: transparent;
+    width: 270px;
+    height: 380px;
+    border-left:  2px solid rgb(116, 116, 116);
+    border-right: 2px solid rgb(116, 116, 116);
+    border-bottom:  2px solid rgb(116, 116, 116);
+    border-top:  2px solid rgb(116, 116, 116);
+    border-radius: 7%;
+    top: 340px;
+    left: 20px;
+    opacity: 900%;
+}
+.imagengalaxywatch4{
+    position: absolute;
+    scale: 45%;
+    right: -110px;
+    bottom: -10px;
+}
+.lineagalaxywatch4{
+    position: absolute;
+    background-color: rgb(116, 116, 116);
+    color: rgb(116, 116, 116);
+    right: 134px;
+    bottom: -50px;
+    height: 273px;
+    width: 1.5px;
+    transform: rotate(-90deg);
+    border-left:  0px solid rgb(116, 116, 116);
+    border-right: 0px solid rgb(116, 116, 116);
+    border-bottom:  0px solid rgb(116, 116, 116);
+    border-top:  0px solid rgb(116, 116, 116);
+    opacity: 900%;
+}
+.nombregalaxywatch4{
+    position: absolute;
+    color: black;
+    scale: 200%;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 92px;
+    top: 300px;
+}
+.preciogalaxywatch4{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 20px;
+    top: 10px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.cajahuaweigt3{
+    position: absolute;
+    background-color: transparent;
+    width: 270px;
+    height: 380px;
+    border-left:  2px solid rgb(116, 116, 116);
+    border-right: 2px solid rgb(116, 116, 116);
+    border-bottom:  2px solid rgb(116, 116, 116);
+    border-top:  2px solid rgb(116, 116, 116);
+    border-radius: 7%;
+    top: 340px;
+    left: 350px;
+}
+.imagenhuaweigt3{
+    position: absolute;
+    scale: 55%;
+    right: -70px;
+    bottom: -75px;
+}
+.lineahuaweigt3{
+    position: absolute;
+    background-color: rgb(116, 116, 116);
+    color: rgb(116, 116, 116);
+    right: 134px;
+    bottom: -50px;
+    height: 273px;
+    width: 1.5px;
+    transform: rotate(-90deg);
+    border-left:  0px solid rgb(116, 116, 116);
+    border-right: 0px solid rgb(116, 116, 116);
+    border-bottom:  0px solid rgb(116, 116, 116);
+    border-top:  0px solid rgb(116, 116, 116);
+}
+.nombrehuaweigt3{
+    position: absolute;
+    color: black;
+    scale: 195%;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 67px;
+    top: 300px;
+}
+.preciohuaweigt3{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 48px;
+    top: 10px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.cajaxiaomis1gl{
+    position: absolute;
+    background-color: transparent;
+    width: 270px;
+    height: 380px;
+    border-left:  2px solid rgb(116, 116, 116);
+    border-right: 2px solid rgb(116, 116, 116);
+    border-bottom:  2px solid rgb(116, 116, 116);
+    border-top:  2px solid rgb(116, 116, 116);
+    border-radius: 7%;
+    top: 340px;
+    left: 680px;
+}
+.imagenxiaomis1gl{
+    position: absolute;
+    scale: 45%;
+    right: -115px;
+    bottom: -10px;
+}
+.lineaxiaomis1gl{
+    position: absolute;
+    background-color: rgb(116, 116, 116);
+    color: rgb(116, 116, 116);
+    right: 134px;
+    bottom: -50px;
+    height: 273px;
+    width: 1.5px;
+    transform: rotate(-90deg);
+    border-left:  0px solid rgb(116, 116, 116);
+    border-right: 0px solid rgb(116, 116, 116);
+    border-bottom:  0px solid rgb(116, 116, 116);
+    border-top:  0px solid rgb(116, 116, 116);
+}
+.nombrexiaomis1gl{
+    position: absolute;
+    color: black;
+    scale: 200%;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 73px;
+    top: 300px;
+}
+.precioxiaomis1gl{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 45px;
+    top: 10px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.cajatw8{
+    position: absolute;
+    background-color: transparent;
+    width: 270px;
+    height: 380px;
+    border-left:  2px solid rgb(116, 116, 116);
+    border-right: 2px solid rgb(116, 116, 116);
+    border-bottom:  2px solid rgb(116, 116, 116);
+    border-top:  2px solid rgb(116, 116, 116);
+    border-radius: 7%;
+    top: 340px;
+    left: 1010px;
+}
+.imagentw8{
+    position: absolute;
+    scale: 45%;
+    right: -115px;
+    bottom: -12px;
+}
+.lineatw8{
+    position: absolute;
+    background-color: rgb(116, 116, 116);
+    color: rgb(116, 116, 116);
+    right: 134px;
+    bottom: -50px;
+    height: 273px;
+    width: 1.5px;
+    transform: rotate(-90deg);
+    border-left:  0px solid rgb(116, 116, 116);
+    border-right: 0px solid rgb(116, 116, 116);
+    border-bottom:  0px solid rgb(116, 116, 116);
+    border-top:  0px solid rgb(116, 116, 116);
+}
+.nombretw8{
+    position: absolute;
+    color: black;
+    scale: 200%;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 85px;
+    top: 300px;
+}
+.preciotw8{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 35px;
+    top: 10px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.bandas{
+    position: absolute;
+    scale: 150%;
+    top: 770px;
+    left: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.cajahuaweiband7{
+    position: absolute;
+    background-color: transparent;
+    width: 270px;
+    height: 380px;
+    border-left:  2px solid rgb(116, 116, 116);
+    border-right: 2px solid rgb(116, 116, 116);
+    border-bottom:  2px solid rgb(116, 116, 116);
+    border-top:  2px solid rgb(116, 116, 116);
+    border-radius: 7%;
+    top: 870px;
+    left: 20px;
+}
+.imagenhuaweiband7{
+    position: absolute;
+    scale: 50%;
+    right: -115px;
+    bottom: -12px;
+}
+.lineahuaweiband7{
+    position: absolute;
+    background-color: rgb(116, 116, 116);
+    color: rgb(116, 116, 116);
+    right: 134px;
+    bottom: -50px;
+    height: 273px;
+    width: 1.5px;
+    transform: rotate(-90deg);
+    border-left:  0px solid rgb(116, 116, 116);
+    border-right: 0px solid rgb(116, 116, 116);
+    border-bottom:  0px solid rgb(116, 116, 116);
+    border-top:  0px solid rgb(116, 116, 116);
+}
+.nombrehuaweiband7{
+    position: absolute;
+    color: black;
+    scale: 200%;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 70px;
+    top: 300px;
+}
+.preciohuaweiband7{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 47px;
+    top: 10px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.cajaxiaomi7pro{
+    position: absolute;
+    background-color: transparent;
+    width: 270px;
+    height: 380px;
+    border-left:  2px solid rgb(116, 116, 116);
+    border-right: 2px solid rgb(116, 116, 116);
+    border-bottom:  2px solid rgb(116, 116, 116);
+    border-top:  2px solid rgb(116, 116, 116);
+    border-radius: 7%;
+    top: 870px;
+    left: 350px;
+}
+.imagenxiaomi7pro{
+    position: absolute;
+    scale: 55%;
+    right: -115px;
+    bottom: -12px;
+}
+.lineaxiaomi7pro{
+    position: absolute;
+    background-color: rgb(116, 116, 116);
+    color: rgb(116, 116, 116);
+    right: 134px;
+    bottom: -50px;
+    height: 273px;
+    width: 1.5px;
+    transform: rotate(-90deg);
+    border-left:  0px solid rgb(116, 116, 116);
+    border-right: 0px solid rgb(116, 116, 116);
+    border-bottom:  0px solid rgb(116, 116, 116);
+    border-top:  0px solid rgb(116, 116, 116);
+}
+.nombrexiaomi7pro{
+    position: absolute;
+    color: black;
+    scale: 200%;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 77px;
+    top: 300px;
+}
+.precioxiaomi7pro{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 42px;
+    top: 10px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.cajagalaxyfit2{
+    position: absolute;
+    background-color: transparent;
+    width: 270px;
+    height: 380px;
+    border-left:  2px solid rgb(116, 116, 116);
+    border-right: 2px solid rgb(116, 116, 116);
+    border-bottom:  2px solid rgb(116, 116, 116);
+    border-top:  2px solid rgb(116, 116, 116);
+    border-radius: 7%;
+    top: 870px;
+    left: 680px;
+}
+.imagengalaxyfit2{
+    position: absolute;
+    scale: 50%;
+    right: -40px;
+    bottom: -12px;
+}
+.lineagalaxyfit2{
+    position: absolute;
+    background-color: rgb(116, 116, 116);
+    color: rgb(116, 116, 116);
+    right: 134px;
+    bottom: -50px;
+    height: 273px;
+    width: 1.5px;
+    transform: rotate(-90deg);
+    border-left:  0px solid rgb(116, 116, 116);
+    border-right: 0px solid rgb(116, 116, 116);
+    border-bottom:  0px solid rgb(116, 116, 116);
+    border-top:  0px solid rgb(116, 116, 116);
+}
+.nombregalaxyfit2{
+    position: absolute;
+    color: black;
+    scale: 200%;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 103px;
+    top: 300px;
+}
+.preciogalaxyfit2{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 12px;
+    top: 10px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.cajafitbitluxe{
+    position: absolute;
+    background-color: transparent;
+    width: 270px;
+    height: 380px;
+    border-left:  2px solid rgb(116, 116, 116);
+    border-right: 2px solid rgb(116, 116, 116);
+    border-bottom:  2px solid rgb(116, 116, 116);
+    border-top:  2px solid rgb(116, 116, 116);
+    border-radius: 7%;
+    top: 870px;
+    left: 1010px;
+}
+.imagenfitbitluxe{
+    position: absolute;
+    scale: 55%;
+    right: -125px;
+    bottom: -10px;
+}
+.lineafitbitluxe{
+    position: absolute;
+    background-color: rgb(116, 116, 116);
+    color: rgb(116, 116, 116);
+    right: 134px;
+    bottom: -50px;
+    height: 273px;
+    width: 1.5px;
+    transform: rotate(-90deg);
+    border-left:  0px solid rgb(116, 116, 116);
+    border-right: 0px solid rgb(116, 116, 116);
+    border-bottom:  0px solid rgb(116, 116, 116);
+    border-top:  0px solid rgb(116, 116, 116);
+}
+.nombrefitbitluxe{
+    position: absolute;
+    color: black;
+    scale: 200%;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 95px;
+    top: 300px;
+}
+.preciofitbitluxe{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 26px;
+    top: 10px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.footer{
+    position: absolute;
+    background-color: gray;
+    height: 240px;
+    width: 1370px;
+    top: 1310px;
+    right: -11px;
+}
+
+.contactanos{
+    position: absolute;
+    color: black;
+    scale: 90%;
+    top: -5px;
+    left: 135px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.titulonumerodecontacto{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 55px;
+    left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.numerodecontacto{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 55px;
+    left: 350px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: -0.5px;
+}
+
+.titulocorreocontacto{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 90px;
+    left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.correocontacto{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 90px;
+    left: 285px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: -0.5px;
+}
+
+.tituloinstagram{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 125px;
+    left: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.instagram{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 125px;
+    left: 330px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: -0.5px;
+}
+
+.titulofacebook{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 165px;
+    left: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.facebook{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 165px;
+    left: 330px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: -0.5px;
+}
+
+.lineafooter1{
+    position: absolute;
+    background-color: rgb(80, 72, 72);
+    color: rgb(80, 72, 72);
+    right: 900px;
+    bottom: -3px;
+    height: 230px;
+    width: 1px;
+    transform: rotate(-900deg);
+    border-left:  0px solid rgb(80, 72, 72);
+    border-right: 0px solid rgb(80, 72, 72);
+    border-bottom:  0px solid rgb(80, 72, 72);
+    border-top:  0px solid rgb(80, 72, 72);
+}
+
+
+
+.encuentranosen{
+    position: absolute;
+    color: black;
+    scale: 90%;
+    top: -5px;
+    left: 570px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.titulodireccion{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 55px;
+    left: 510px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.direccion{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 90px;
+    left: 520px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+.local{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 125px;
+    left: 515px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+.lugar{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 165px;
+    left: 525px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+.lineafooter2{
+    position: absolute;
+    background-color: rgb(80, 72, 72);
+    color: rgb(80, 72, 72);
+    right: 430px;
+    bottom: -3px;
+    height: 230px;
+    width: 1px;
+    transform: rotate(-900deg);
+    border-left:  0px solid rgb(80, 72, 72);
+    border-right: 0px solid rgb(80, 72, 72);
+    border-bottom:  0px solid rgb(80, 72, 72);
+    border-top:  0px solid rgb(80, 72, 72);
+}
+
+
+
+.informacion{
+    position: absolute;
+    color: black;
+    scale: 90%;
+    top: -5px;
+    left: 1060px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.textinformacion{
+    position: absolute;
+    color: black;
+    scale: 120%;
+    top: 70px;
+    left: 1000px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
